@@ -1,0 +1,12 @@
+.redcolor{
+    color: red;
+}
+.pinkcolor{
+    color: rgb(25, 139, 73);
+}
+body{
+    text-align: center;
+}
+#title{
+    color: purple;
+}
